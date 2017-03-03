@@ -4,7 +4,7 @@
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
-  "description": "react native支付宝移动支付模块（码天科技有限公司）",
+  "description": "react-native-html-to-pdf（码天科技有限公司）",
   "repository": {
     "type": "git",
     "url": "github:christopherdro/react-native-html-to-pdf"
