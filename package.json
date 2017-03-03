@@ -4,10 +4,10 @@
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
-  "description": "react-native-html-to-pdf（码天科技有限公司）",
+  "description": "martian-react-native-html-to-pdf（码天科技有限公司）",
   "repository": {
     "type": "git",
-    "url": "github:christopherdro/react-native-html-to-pdf"
+    "url": "github:XuChangZJU/martian-react-native-html-to-pdf"
   },
   "keywords": [
     "html",
