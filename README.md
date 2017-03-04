@@ -42,7 +42,7 @@ dependencies {
 
 ```java
 // import the package
-import com.martianlife.htmltopdf.RNHTMLtoPDFPackage;
+import com.martianLife.htmltopdf.RNHTMLtoPDFPackage;
 
 // include package
 new MainReactPackage(),

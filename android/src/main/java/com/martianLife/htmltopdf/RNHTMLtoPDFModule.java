@@ -1,4 +1,4 @@
-package com.martianlife.htmltopdf;
+package com.martianLife.htmltopdf;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReactApplicationContext;
