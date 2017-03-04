@@ -4,7 +4,7 @@ Convert html strings to PDF documents using React Native
 
 ## Installation
 
-1. Run `npm install react-native-html-to-pdf --save`
+1. Run `npm install martian-react-native-html-to-pdf --save`
 
 ### Automatic
 
@@ -24,8 +24,8 @@ The android module pulls in iText to convert html to pdf.  You are supposed to o
 - Edit `android/settings.gradle` to included
 
 ```java
-include ':react-native-html-to-pdf'
-project(':react-native-html-to-pdf').projectDir = new File(rootProject.projectDir,'../node_modules/react-native-html-to-pdf/android')
+include ':martian-react-native-html-to-pdf'
+project(':martian-react-native-html-to-pdf').projectDir = new File(rootProject.projectDir,'../node_modules/martian-react-native-html-to-pdf/android')
 ```
 
 - Edit `android/app/build.gradle` file to include
@@ -33,7 +33,7 @@ project(':react-native-html-to-pdf').projectDir = new File(rootProject.projectDi
 ```java
 dependencies {
   ....
-  compile project(':react-native-html-to-pdf')
+  compile project(':martian-react-native-html-to-pdf')
 
 }
 ```
@@ -42,7 +42,7 @@ dependencies {
 
 ```java
 // import the package
-import com.christopherdro.htmltopdf.RNHTMLtoPDFPackage;
+import com.martianlife.htmltopdf.RNHTMLtoPDFPackage;
 
 // include package
 new MainReactPackage(),

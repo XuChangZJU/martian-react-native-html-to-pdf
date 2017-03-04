@@ -25,9 +25,6 @@ android {
             abiFilters "armeabi-v7a", "x86"
         }
     }
-    packagingOptions {
-        exclude 'com/itextpdf/text/pdf/fonts/cmap_info.txt'
-    }
 }
 
 repositories {
@@ -37,8 +34,6 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:0.20.+'
-    //compile 'com.itextpdf:itextg:5.5.9'
-    //compile 'com.itextpdf:itext-asian:5.2.0'
     compile 'com.itextpdf.tool:xmlworker:5.5.9'
     compile fileTree(dir: "libs", include: ["*.jar"])
 }
