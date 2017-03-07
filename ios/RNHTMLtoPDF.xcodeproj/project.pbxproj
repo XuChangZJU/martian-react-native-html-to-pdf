@@ -374,6 +374,7 @@
 				117406051B9954BF004425E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		117406061B9954BF004425E1 /* Build configuration list for PBXNativeTarget "RNHTMLtoPDFTests" */ = {
 			isa = XCConfigurationList;
@@ -382,6 +383,7 @@
 				117406081B9954BF004425E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -2,11 +2,11 @@
 //  Created by Christopher on 9/3/15.
 
 #import <UIKit/UIKit.h>
-#import <React/RCTConvert.h>
-#import <React/RCTEventDispatcher.h>
-#import <React/RCTView.h>
-#import <React/UIView+React.h>
-#import <React/RCTUtils.h>
+#import "RCTConvert.h"
+#import "RCTEventDispatcher.h"
+#import "RCTView.h"
+#import "UIView+React.h"
+#import "RCTUtils.h"
 #import "RNHTMLtoPDF.h"
 
 #define PDFSize CGSizeMake(612,792)
